@@ -1,2 +1,1 @@
-# nova-plus
-nova-plus
+Novamed 

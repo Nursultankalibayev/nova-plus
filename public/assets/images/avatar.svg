@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="101px" viewBox="0 0 100 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>avatar</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="50" cy="50.1089562" rx="50" ry="50.1089562"></ellipse>
+    </defs>
+    <g id="Novamed" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Главная" transform="translate(-250.000000, -3485.000000)">
+            <g id="Отзывы" transform="translate(115.000000, 3402.000000)">
+                <g id="1" transform="translate(0.000000, 83.281107)">
+                    <g id="avatar" transform="translate(135.000000, 0.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#F5FEFF" xlink:href="#path-1"></use>
+                        <g id="user" mask="url(#mask-2)" stroke-linecap="round" stroke="#00A9C9" stroke-width="4" stroke-linejoin="round">
+                            <g transform="translate(14.000000, 20.000000)">
+                                <path d="M71.1111111,80 L71.1111111,71.1111111 C71.1111111,61.2927156 63.1517289,53.3333333 53.3333333,53.3333333 L17.7777778,53.3333333 C7.95938223,53.3333333 0,61.2927156 0,71.1111111 L0,80" id="Shape"></path>
+                                <circle id="Oval" cx="35.5555556" cy="17.7777778" r="17.7777778"></circle>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
